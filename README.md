@@ -1,4 +1,4 @@
-# FrontAccounting – Manual Testing Project
+# FrontAccounting(FA) – Manual Testing Project
 
 ## Project Overview
 
